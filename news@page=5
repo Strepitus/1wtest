@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <base href=""/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <meta name="keywords" content="новости торгового дома посольство вкусной еды">
+    <meta name="description" content="новости торгового дома посольство вкусной еды">
+	<title>Новости и акции</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+
+<link rel="stylesheet" href="https://tdpve.ru/assets/components/minifyx/cache/styles_11093ca6ce.min.css" type="text/css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="assets/template/css/new.css@895323" />
+<link rel="stylesheet" href="https://tdpve.ru/assets/components/gallery/css/web.css" type="text/css" />
+<link rel="canonical" href="news"/>
+<link rel="prev" href="news@page=4"/>
+<link rel="next" href="news@page=6"/>
+</head>
+<body>
+
+<div class="new-header-top fixed-top">
+    <div class="container d-none d-sm-block">
+        <div class="row justify-content-end">
+            <div class="col-md-3">
+                <div class="logo">
+    			    <a href="index.html">
+    				    <img src="assets/cache_image/logo_218x203_c63.png" alt="Производство сухарно-бараночных изделий, снеков и печенья">
+                        <!--img src="/assets/cache_image/./logo_0x210_c14.png" alt="Производство сухарно-бараночных изделий, снеков и печенья"-->
+                    </a>
+                </div>
+            </div>
+    		<div class="col-md-9">
+    		    <div class="row align-items-center">
+    		        <div class="col-md-9">
+    		            <ul class="top-contact">
+    		                <li>302006, г. Орёл, ул. Московская, 181б.</li>
+                            <li>т: +7 (4862) 43-33-86, +7 (4862) 73-43-52, +7 (800) 700-54-58</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 text-right">
+                        <div class="social">
+    				        <a href="https://www.youtube.com/channel/UCXQyPYxhl7YvnsbzLUhWupg" rel="nofollow" target="_blank" title="Наш канал на YouTube"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_youtube.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://vk.com/club156625603" rel="nofollow" target="_blank" title="Вконтакте | Посольство Вкусной Еды "><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_vk.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://www.instagram.com/posolstvo_tdpve/" rel="nofollow" target="_blank" title="Instagram | Посольство Вкусной Еды"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_inst.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://wa.me/79103002457" rel="nofollow" target="_blank" title="Связь по WhatsApp"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/wtsp.1199a8a03474f48a537ccc642486d7e27.png"></a>
+    				    </div>
+                    </div>
+                </div>
+                <div class="row">
+        		    <div class="col-12">
+    		            <ul class="top-menu"><li  class="first"><a href="o-kompanii" title="О компании">О компании</a></li><li ><a href="contacts" title="Контакты">Контакты</a></li><li ><a href="produkciya" title="Продукция">Продукция</a></li><li ><a href="distribyutoram" title="Партнерам">Партнерам</a></li><li  class="last active"><a href="news" title="Новости и акции">Новости и акции</a></li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container d-block d-sm-none">
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="mobile_mnu_wrap">
+                    <i class="fa fa-bars mnu-button"></i>
+        			<ul class="mob_mnu"><li><a href="o-kompanii" title="О компании">О компании</a></li><li><a href="contacts" title="Контакты">Контакты</a></li><li><a href="produkciya" title="Продукция">Продукция</a></li><li><a href="distribyutoram" title="Партнерам">Партнерам</a></li><li><a href="news" title="Новости и акции">Новости и акции</a></li></ul>
+        		</div>
+            </div>
+            <div class="col-xs-8">
+                <div class="social">
+                    <a href="https://www.youtube.com/channel/UCXQyPYxhl7YvnsbzLUhWupg" rel="nofollow" target="_blank" title="Наш канал на YouTube"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_youtube.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://vk.com/club156625603" rel="nofollow" target="_blank" title="Вконтакте | Посольство Вкусной Еды "><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_vk.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://www.instagram.com/posolstvo_tdpve/" rel="nofollow" target="_blank" title="Instagram | Посольство Вкусной Еды"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_inst.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://wa.me/79103002457" rel="nofollow" target="_blank" title="Связь по WhatsApp"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/wtsp.1199a8a03474f48a537ccc642486d7e27.png"></a>
+                </div>
+            </div>
+		</div>
+    </div>
+</div>
+<div class="products">
+	<div class="products_wrap">
+		<div class="section_title">
+		    <p class="white"></p>
+		    <!--p class="white">С Новым годом!</p-->
+		</div>
+        <div class="slider_wrap">
+            <div class="product_slider slider">
+                <div class="slide">
+                    <a href="produkciya">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/post-banner-04.0db1d8e7a570f721aadc395305e54b887.png" alt="Продукция в пост">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="sneki">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/krendeli.0db1d8e7a570f721aadc395305e54b887.png" alt="Снеки">
+                		</span>
+                	</a>
+                </div>
+                <!--div class="slide">
+                    <a href="/pechene">
+                	    <span>
+                		    <img src="/assets/components/phpthumbof/cache/ovsyanoe.0db1d8e7a570f721aadc395305e54b887.png" alt="Печенье">
+                		</span>
+                	</a>
+                </div-->
+                <div class="slide">
+                    <a href="suhari">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/suhari.0db1d8e7a570f721aadc395305e54b887.png" alt="Сухари">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="sushki">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/sushki2.0db1d8e7a570f721aadc395305e54b887.png" alt="Сушки">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="produkciya/pechene-funnycat">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/funnycat-banner-02.0db1d8e7a570f721aadc395305e54b887.png" alt="Печенье FunnyCat">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="sneki/krendelki-crezy-crew-sladkie-200g">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/crazycrew-banner01.0db1d8e7a570f721aadc395305e54b887.png" alt="Крендельки CrazyCrew">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="baranki">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/slider-baranki-02.0db1d8e7a570f721aadc395305e54b887.png" alt="Баранки">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="sushki">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/slider-sushki-inch.0db1d8e7a570f721aadc395305e54b887.png" alt="Сушки меньше дюйма">
+                		</span>
+                	</a>
+                </div>
+                <div class="slide">
+                    <a href="suhari">
+                	    <span>
+                		    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/slider-suhari-02.0db1d8e7a570f721aadc395305e54b887.png" alt="Сухари">
+                		</span>
+                	</a>
+                </div>
+            </div>
+        </div>
+		<a class="button" href="produkciya">Смотреть весь каталог продукции</a>
+		<div class="language_switch">
+            <span class="ru img_border"></span><a class="eng img_border" href="http://en.tdpve.ru/news" title=""></a><a class="zh img_border" href="http://cn.tdpve.ru/news" title=""></a> 
+        </div>
+	</div>
+</div>
+
+
+
+<div class="section_news">
+	<div class="section_news_wrap">
+		            <div class="breadcrumbs">
+			    <ul class="breadcrumb"><li><a href="index.html" title="Производство и продажа (опт)  и  сухарно-бараночной продукции, сушек, сухарей, снеков, крендельков, овсяного и сахарного печенья, Fanny Cat  оптом в Орле. Торговый Дом Посольство вкусной еды."><span>Главная</span></a></li>
+<li class="active"><span>Новости и акции</span></li></ul>
+			</div>
+		<div class="section_title">
+			<h1>Новости и акции</h1>
+		</div>
+		<div class="container mb-5">
+    <div class="row justify-content-center">
+        <div class="col-md-10"><img src="assets/images/fanny-cat-paper.jpg" class="img-fluid"></div>
+    </div>
+</div>
+<div class="container mb-5">
+    <div class="row">
+	    <div class="col-md-3">
+            <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/S92SfLPMGko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+		</div>
+		<div class="col-md-3">
+            <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/mwBI6J4-tE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		
+		</div>
+		<div class="col-md-3">
+            <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/W6GSZoioTeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+		<div class="col-md-3">
+            <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/YcpxffDExEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+		<div class="news_item">
+					<div class="item_wrap">
+						<a href="news/zapusk-novoj-linii" title="Запуск новой линии по выпуску колечек">
+							
+							<span class="news_title">
+								Запуск новой линии по выпуску колечек 
+							</span>
+							<span class="news_date">
+								30.08.2015. 19:00
+							</span>
+							<span class="news_content">
+							    Запуск новой линии по выпуску колечек с солью, с маком и сладкие. Мощность выпуска продукции 150 тонн в месяц.
+							</span>
+						</a>
+					</div>
+				</div>
+<div class="news_item">
+					<div class="item_wrap">
+						<a href="news/zapusk-novoj-linii-po-proizvodstvu-ovsyanogo-pechenya-i-avtomatizirovannyj-uchastok-fasovki" title="Запуск новой линии по производству овсяного печенья и автоматизированный участок фасовки">
+							
+							<span class="news_title">
+								Запуск новой линии по производству овсяного печенья и автоматизированный участок фасовки 
+							</span>
+							<span class="news_date">
+								25.07.2015. 18:59
+							</span>
+							<span class="news_content">
+							    Мы запустили новую автоматизированную линию по фасовке печенья овсяного
+							</span>
+						</a>
+					</div>
+				</div>
+<div class="news_item">
+					<div class="item_wrap">
+						<a href="news/zapushhena-novaya-liniya-po-proizvodstvu-baranok" title="Запущена новая линия по производству баранок">
+							
+							<span class="news_title">
+								Запущена новая линия по производству баранок 
+							</span>
+							<span class="news_date">
+								20.04.2015. 17:33
+							</span>
+							<span class="news_content">
+							    Запущена новая линия по производству баранок. Сейчас выпускаются 2 вида: Баранки сдобные и Баранки с маком
+							</span>
+						</a>
+					</div>
+				</div>
+<div class="news_item">
+					<div class="item_wrap">
+						<a href="/news/ocherednaya-pobeda-v-kontrolnoj-zakupke" title="Очередная победа в "Контрольной Закупке"">
+							
+							<span class="news_title">
+								Очередная победа в "Контрольной Закупке" 
+							</span>
+							<span class="news_date">
+								04.03.2014. 17:35
+							</span>
+							<span class="news_content">
+							    Мы в очередной раз победили в "Контрольной Закупке" на Первом канале. 
+							</span>
+						</a>
+					</div>
+				</div>
+<div class="news_item">
+					<div class="item_wrap">
+						<a href="/news/pobeda-v-programme-kontrolnaya-zakupka" title="Победа в программе "Контрольная закупка"">
+							
+							<span class="news_title">
+								Победа в программе "Контрольная закупка" 
+							</span>
+							<span class="news_date">
+								04.04.2013. 09:44
+							</span>
+							<span class="news_content">
+							    Рады сообщить Вам, что наша продукция в очередной раз стала победителем программы "Контрольная закупка"
+							</span>
+						</a>
+					</div>
+				</div>
+<div class="news_item">
+					<div class="item_wrap">
+						<a href="news/vystavka-prodekspo-2013" title="Выставка ПРОДЭКСПО 2013">
+							
+							<span class="news_title">
+								Выставка ПРОДЭКСПО 2013 
+							</span>
+							<span class="news_date">
+								08.02.2013. 15:28
+							</span>
+							<span class="news_content">
+							    Торговый Дом "Посольство Вкусной Еды" примет участие в 20-й международной выставке продуктов питания, напитков и сырья для их производства ПРОДЭКСПО 2013.
+							</span>
+						</a>
+					</div>
+				</div>
+        <div class="pagination"><ul class="pagination"><li class="control"><a href="news"><<</a></li><li class="control"><a href="news@page=4"><</a></li><li class="number"><a href="news@page=2">2</a></li><li class="number"><a href="news@page=3">3</a></li><li class="number"><a href="news@page=4">4</a></li><li class="active number"><a href="news@page=5">5</a></li><li class="number"><a href="news@page=6">6</a></li><li class="control"><a href="news@page=6">></a></li><li class="control"><a href="news@page=6">>></a></li></ul></div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h2>Наши партнёры</h2>
+        </div>
+        <div class="col-12">
+            <div class="slider_wrap">
+                <div class="partner_slider slider">
+                    <div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/2.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/1.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/3.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/4.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/5.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/6.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/7.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/8.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/9.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/10.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/11.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/12.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/13.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/14.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/15.8e97b446b9a3a9a9dc41ffbc81d30f2e7.jpeg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/16.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/17.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/18.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/19.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/20.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/21.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/22.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/23.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/24.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/25.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/26.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/27.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/28.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/29.a03dd0a72326539dc271e8b5cca942eb7.png" alt="" class="img-fluid">
+</div>
+<div class="slide">
+    <img src="https://tdpve.ru/assets/components/phpthumbof/cache/30.eedf7781a8a9986e1f23e32d45b3ce307.jpg" alt="" class="img-fluid">
+</div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<div class="footer footer_other">
+		<div class="contacts">
+			<div class="copyright">
+				<span>© 2011-2020</span>
+				<span>ТД "Посольство вкусной еды"</span>
+			</div>
+			<div class="address">
+				<span>302006, г. Орёл, ул. Московская, 181б.</span>
+				<span class="phone">т: <a href="tel:+7 (4862) 43-33-86">+7 (4862) 43-33-86</a>, <a href="tel:+7 (4862) 73-43-52">+7 (4862) 73-43-52</a>, <a href="tel:+7 (800) 700-54-58">+7 (800) 700-54-58</a></span>
+				<div class="social">
+				    <a href="https://www.youtube.com/channel/UCXQyPYxhl7YvnsbzLUhWupg" rel="nofollow" target="_blank" title="Наш канал на YouTube"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_youtube.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://vk.com/club156625603" rel="nofollow" target="_blank" title="Вконтакте | Посольство Вкусной Еды "><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_vk.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://www.instagram.com/posolstvo_tdpve/" rel="nofollow" target="_blank" title="Instagram | Посольство Вкусной Еды"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/ico_inst.1199a8a03474f48a537ccc642486d7e27.png"></a><a href="https://wa.me/79103002457" rel="nofollow" target="_blank" title="Связь по WhatsApp"><img src="https://tdpve.ru/assets/components/phpthumbof/cache/wtsp.1199a8a03474f48a537ccc642486d7e27.png"></a>
+				</div>
+			</div>
+				<div class="autors">
+					<span>
+Сайт разработан</span>
+					<a href="http://www.art4biz.ru/" title="ART4BIZ" target=_blank>ART4BIZ</a>	
+				</div>
+		</div>
+	</div>
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54406714, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54406714" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'ooov0S6QoI';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+	<script type="text/javascript" src="https://tdpve.ru/assets/components/minifyx/cache/scripts_15addafa82.min.js"></script>
+
+</body>
+</html>
+

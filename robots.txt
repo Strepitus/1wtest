@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /connectors/
+Host: 194.85.95.86
+Sitemap: https://tdpve.ru/sitemap.xml
